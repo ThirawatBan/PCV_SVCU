@@ -8,5 +8,5 @@ Photogrammetry and Computer Vision (PCV) Resources for the Department of Survey 
 
 
 ## ชุดข้อมูลภาพถ่าย (IMAGE)
-* 1. [DJIM300 RTK with Zenmuse P1 - CU_SBR (2022)]()
-* 2. [VTOL CW15 with CA502R Oblique Camera - CU_SBR (2022)]()                                                                                               
+1. [DJIM300 RTK with Zenmuse P1 - CU_SBR (2022)]()
+2. [VTOL CW15 with CA502R Oblique Camera - CU_SBR (2022)]()                                                                                               

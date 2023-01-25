@@ -8,5 +8,5 @@ Photogrammetry and Computer Vision resources provided and compiled by Department
 
 
 ## ชุดข้อมูลภาพถ่าย (IMAGE)
-1. DJIM 300 RTK with Zenmuse P1 - CU_SBR (2022)
+1. DJI M300 RTK with Zenmuse P1 - CU_SBR (2022)
 2. VTOL CW15 with CA502R Oblique Camera - CU_SBR (2022)                                                                                               

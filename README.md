@@ -1,5 +1,5 @@
 # PCV_SVCU
-Photogrammetry and Computer Vision resources provided and compiled by Department of Survey Engineering Chulalongkorn University
+Photogrammetric Computer Vision resources provided and compiled by Department of Survey Engineering Chulalongkorn University
 
 ## [เอกสาร (DOCUMENT)](https://github.com/ThirawatBan/PCV_SVCU/tree/main/DOCUMENT)
 * หนังสือการสำรวจและจัดทำแผนที่ด้วยอากาศยานไร้คนขับ_กรมโยธาธิการและผังเมือง

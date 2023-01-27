@@ -12,5 +12,5 @@ Photogrammetric Computer Vision resources provided and compiled by Department of
 1. DJI M300 RTK with Zenmuse P1 - CU_SBR (2022)
 2. VTOL CW15 with CA502R Oblique Camera - CU_SBR (2022)     
 
-## [ซอฟต์แวร์ช่วยประมวลผล (Software)]
+## ซอฟต์แวร์ช่วยประมวลผล (Software)
 * [pyBundleBlock ](https://github.com/phisan-chula/pyBundleBlock) by P.Santitamnont (2022)

@@ -9,4 +9,4 @@ Photogrammetric Computer Vision resources provided and compiled by Department of
 
 ## [ชุดข้อมูลภาพถ่าย (IMAGE)](https://github.com/ThirawatBan/PCV_SVCU/tree/main/IMAGE)
 1. DJI M300 RTK with Zenmuse P1 - CU_SBR (2022)
-2. VTOL CW15 with CA502R Oblique Camera - CU_SBR                                                                   
+2. VTOL CW15 with CA502R Oblique Camera - CU_SBR (2022)                                                                

@@ -2,9 +2,10 @@
 Photogrammetric Computer Vision resources provided and compiled by Department of Survey Engineering Chulalongkorn University
 
 ## [หนังสือที่เกี่ยวข้องกับการสำรวจรังวัดด้วยภาพ (BOOK)](https://github.com/ThirawatBan/PCV_SVCU/tree/main/BOOK)
+* หนังสือการสำรวจรังวัดด้วยภาพดิจิทัล_2021_PhisanChula
 * หนังสือการสำรวจและจัดทำแผนที่ด้วยอากาศยานไร้คนขับ_กรมโยธาธิการและผังเมือง
 * คู่มือการทำแผนที่ภาพถ่ายทางอากาศเพื่อการรังวัดด้วยอากาศยานไร้คนขับ_กรมที่ดิน
-* หนังสือการสำรวจรังวัดด้วยภาพดิจิทัล_2021_PhisanChula
+* คู่มือการปฎิบัติงานการสำรวจทำแผนที่แบบผสมโดยอากาศยานไร้นักบิน_กรมชลประทาน
 
 
 ## [ชุดข้อมูลภาพถ่าย (IMAGE)](https://github.com/ThirawatBan/PCV_SVCU/tree/main/IMAGE)

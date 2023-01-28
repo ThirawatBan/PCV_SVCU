@@ -13,4 +13,8 @@ Photogrammetric Computer Vision resources provided and compiled by Department of
 2. VTOL CW15 with CA502R Oblique Camera - CU_SBR (2022)     
 
 ## ซอฟต์แวร์ช่วยประมวลผล (Software)
-* [pyBundleBlock ](https://github.com/phisan-chula/pyBundleBlock) by P.Santitamnont (2022)
+* [pyBundleBlock](https://github.com/phisan-chula/pyBundleBlock) by P.Santitamnont (2022)
+
+## การวิจัยกรณีศึกษา (CASE STUDY RESEARCH)
+* [PrecisePPK M300](https://github.com/phisan-chula/UAV_Research/tree/main/PrecisePPK_M300) by T.Bannakulpiphat & P.Santitamnont (2022)
+

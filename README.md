@@ -15,6 +15,7 @@ Photogrammetric Computer Vision resources provided and compiled by Department of
 
 ## ซอฟต์แวร์ช่วยประมวลผล (SOFTWARE)
 * [pyBundleBlock](https://github.com/phisan-chula/pyBundleBlock) by P.Santitamnont (2022)
+* [LiDAR Target LCP](https://github.com/phisan-chula/UAV_Research/tree/main/LidarTarget_LCP) by P.Santitamnont (2022)
 
 ## การวิจัยกรณีศึกษา (CASE STUDY RESEARCH)
 * [PrecisePPK M300](https://github.com/phisan-chula/UAV_Research/tree/main/PrecisePPK_M300) by T.Bannakulpiphat & P.Santitamnont (2022)

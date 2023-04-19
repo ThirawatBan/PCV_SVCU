@@ -15,8 +15,7 @@
 				<img src="thumbnails/TN03.png" width="100%" />
 			</a>
 		</td>
-	</tr>
-  
+	</tr> 
 	<tr>
 		<th>TN01</th><th>TN02</th><th>TN03</th>
 	</tr>

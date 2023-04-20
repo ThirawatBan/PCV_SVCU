@@ -4,7 +4,7 @@
 	<tr>
 		<td>
 			<a href="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/Technical_Note_PDF/TN01_Precise%203D%20Measuring%20of%20Topographic%20Feature%20via%20UAV%20Multiview-Geometry.pdf" target="_blank">
-				<img src="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/thumbnails/TN01.PNG" width="100%" />
+				<img src="PCV_SVCU/PCV_TechnicalNote/thumbnails/TN01.png" width="100%" />
 			</a>
 		</td><td>
 			<a href="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/Technical_Note_PDF/TN02_3D%20GNSS%20Survey%20for%20GCP%20supporting%20UAV%20mapping.pdf" target="_blank">

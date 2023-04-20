@@ -20,6 +20,5 @@
 		<th>TN01: Precise 3D Measuring of Topographic Feature via UAV Multiview-Geometry</th>
 		<th>TN02: 3D GNSS Survey for GCP supporting UAV mapping</th>
 		<th>TN03: Geometric camera calibration report for UAV-equipped oblique camera system_CA502</th>
-		
 	</tr>
 </table>

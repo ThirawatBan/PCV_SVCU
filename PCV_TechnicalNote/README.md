@@ -22,3 +22,15 @@
 		<th>TN03: Geometric camera calibration report for UAV-equipped oblique camera system_CA502</th>
 	</tr>
 </table>
+<table>
+	<tr>
+		<td>
+			<a>
+				<img src="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/thumbnails/TN04.PNG" width="100%" />
+			</a>
+		</td>
+	</tr> 
+	<tr>
+		<th>TN04: Geometric camera calibration report for UAV-equipped oblique camera system_PSDK 102S V3</th>
+	</tr>
+</table>

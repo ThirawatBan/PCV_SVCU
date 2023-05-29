@@ -26,7 +26,7 @@
 	<tr>
 		<td>
 			<a>
-				<img src="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/thumbnails/TN04.PNG" width="100%" />
+				<img src="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/thumbnails/TN04.png" width="100%" />
 			</a>
 		</td>
 	</tr> 

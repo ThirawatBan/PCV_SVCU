@@ -28,9 +28,9 @@
 		<td>
 				<img src="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/thumbnails/TN04.png" width="100%" />
 		</td><td>
-				<img src="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/thumbnails/TN05.png" width="100%" />
+				<img src="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/thumbnails/TN05.PNG" width="100%" />
 		</td><td>
-				<img src="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/thumbnails/TN0_coming soon.png" width="100%" />
+				<img src="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/thumbnails/TN_coming%20soon.PNG" width="100%" />
 			</a>
 		</td>
 	</tr> 

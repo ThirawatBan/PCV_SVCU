@@ -36,7 +36,7 @@
 	</tr> 
 	<tr>
 		<th>TN04: Geometric camera calibration report for UAV-equipped oblique camera system_PSDK 102S V3</th>
-		<th>TN04: Geometric camera calibration report for UAV-equipped oblique camera system_102S PRO</th>
+		<th>TN05: Geometric camera calibration report for UAV-equipped oblique camera system_102S PRO</th>
 		<th>TN06: coming soon </th>
 	</tr>
 </table>

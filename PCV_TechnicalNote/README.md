@@ -26,12 +26,16 @@
 <table>
 	<tr>
 		<td>
+			<a href="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/Technical_Note_PDF/TN04_Geometric_Camera_Calibration_Report_for_UAV-Equipped_Small-Format_Oblique_Camera_System_SHARE_PSDK_102S_V3_SN_ P102D220043 _2023_03_20.pdf" target="_blank">
 				<img src="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/thumbnails/TN04.png" width="100%" />
+			</a>
 		</td><td>
+			<a 
+href="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/Technical_Note_PDF/TN05_Geometric_Camera_Calibration_Report_for_UAV-Equipped_Small-Format_Oblique_Camera_System_SHARE_102S_PRO_SN_0520102P10265 _2023_03_19.pdf" target="_blank">
 				<img src="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/thumbnails/TN05.PNG" width="100%" />
+			</a>
 		</td><td>
 				<img src="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/thumbnails/TN_coming%20soon.PNG" width="100%" />
-			</a>
 		</td>
 	</tr> 
 	<tr>

@@ -3,7 +3,7 @@
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/Technical_Note_PDF/TN01_Precise_3D_Measuring_of_Topographic_Feature_via_UAV_Multi-View_Stereo.pdf)" target="_blank">
+			<a href="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/Technical_Note_PDF/TN01_Precise_3D_Measuring_of_Topographic_Feature_via_UAV_Multi-View_Stereo.pdf" target="_blank">
 				<img src="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/thumbnails/TN01.PNG" width="100%" />
 			</a>
 		</td><td>

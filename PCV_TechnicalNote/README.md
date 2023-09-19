@@ -7,11 +7,11 @@
 				<img src="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/thumbnails/TN01.PNG" width="100%" />
 			</a>
 		</td><td>
-			<a href="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/Technical_Note_PDF/TN02_3D%20GNSS%20Survey%20for%20GCP%20supporting%20UAV%20mapping.pdf" target="_blank">
+			<a href="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/Technical_Note_PDF/TN02_3D_GNSS_Survey_for_GCP_Supporting _UAV_Mapping.pdf" target="_blank">
 				<img src="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/thumbnails/TN02.PNG" width="100%" />
 			</a>
 		</td><td>
-			<a href="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/Technical_Note_PDF/TN03_Geometric%20camera%20calibration%20report%20for%20UAV-equipped%20oblique%20camera%20system_CA502_SN_CA205R202115_2022_11_05.pdf" target="_blank">
+			<a href="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/Technical_Note_PDF/TN03_Geometric_Camera_Calibration_Report_for_UAV-Equipped_Small-Format_Oblique_Camera_System_CA502_SN_CA205R202115_2022_11_05.pdf" target="_blank">
 				<img src="https://github.com/ThirawatBan/PCV_SVCU/blob/main/PCV_TechnicalNote/thumbnails/TN03.PNG" width="100%" />
 			</a>
 		</td>

@@ -1,5 +1,5 @@
 # PCV_SVCU
-Photogrammetric Computer Vision resources provided and compiled by Department of Survey Engineering Chulalongkorn University
+Photogrammetric Computer Vision resources provided and compiled by Mapping And Positioning from Space (MAPS) Technology Research Center, Department of Survey Engineering, Faculty of Engineering, Chulalongkorn University, Thailand
 
 ## [หนังสือที่เกี่ยวข้องกับการสำรวจรังวัดด้วยภาพ (BOOK)](https://github.com/ThirawatBan/PCV_SVCU/tree/main/BOOK)
 * หนังสือการสำรวจรังวัดด้วยภาพดิจิทัล_2021_PhisanChula

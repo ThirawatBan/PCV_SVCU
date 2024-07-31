@@ -7,6 +7,9 @@ Photogrammetric Computer Vision resources provided and compiled by Mapping And P
 * คู่มือการทำแผนที่ภาพถ่ายทางอากาศเพื่อการรังวัดด้วยอากาศยานไร้คนขับ_กรมที่ดิน
 * คู่มือการปฎิบัติงานการสำรวจทำแผนที่แบบผสมโดยอากาศยานไร้นักบิน_กรมชลประทาน
 
+## [คู่มือการใช้งานโปรแกรม (USER MANUAL)](https://github.com/ThirawatBan/PCV_SVCU/tree/main/PCV_UserManual)
+* คู่มือการใช้งานโปรแกรม Agisoft Metashape
+* คู่มือการใช้งานโปรแกรม PIX4Dmapper
 
 ## [ชุดข้อมูลภาพถ่าย (IMAGE)](https://github.com/ThirawatBan/PCV_SVCU/tree/main/IMAGE)
 1. DJI M300 RTK with Zenmuse P1 - CU_SBR (2022)
